@@ -1,0 +1,7 @@
+.venv
+*__pycache__
+instance
+celerybeat-schedule
+MailHog_linux_amd64
+*.csv
+.vscode
